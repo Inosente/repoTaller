@@ -1,3 +1,4 @@
+
 '''
 A continuación se muestra la estructura de control if. El programa 
 1.- Pide al usuario su edad.
